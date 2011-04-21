@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/suds/!svn/ver/656/trunk/suds/transport
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/suds/!svn/ver/637/trunk/suds/transport/options.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/suds/!svn/ver/637/trunk/suds/transport/__init__.py
+END
+http.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/suds/!svn/ver/656/trunk/suds/transport/http.py
+END
+https.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/suds/!svn/ver/656/trunk/suds/transport/https.py
+END

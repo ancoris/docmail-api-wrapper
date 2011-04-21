@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/suds/!svn/ver/689/trunk/suds/bindings
+END
+binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/suds/!svn/ver/689/trunk/suds/bindings/binding.py
+END
+document.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/suds/!svn/ver/593/trunk/suds/bindings/document.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/suds/!svn/ver/523/trunk/suds/bindings/__init__.py
+END
+rpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/suds/!svn/ver/644/trunk/suds/bindings/rpc.py
+END
+multiref.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/suds/!svn/ver/591/trunk/suds/bindings/multiref.py
+END

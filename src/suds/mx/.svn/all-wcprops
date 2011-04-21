@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/suds/!svn/ver/679/trunk/suds/mx
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/suds/!svn/ver/593/trunk/suds/mx/core.py
+END
+literal.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/suds/!svn/ver/679/trunk/suds/mx/literal.py
+END
+appender.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/suds/!svn/ver/674/trunk/suds/mx/appender.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/suds/!svn/ver/593/trunk/suds/mx/__init__.py
+END
+basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/suds/!svn/ver/549/trunk/suds/mx/basic.py
+END
+encoded.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/suds/!svn/ver/644/trunk/suds/mx/encoded.py
+END
+typer.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/suds/!svn/ver/549/trunk/suds/mx/typer.py
+END

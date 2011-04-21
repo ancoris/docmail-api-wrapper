@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/suds/!svn/ver/670/trunk/suds/umx
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/suds/!svn/ver/670/trunk/suds/umx/core.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/suds/!svn/ver/593/trunk/suds/umx/__init__.py
+END
+basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/suds/!svn/ver/549/trunk/suds/umx/basic.py
+END
+encoded.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/suds/!svn/ver/657/trunk/suds/umx/encoded.py
+END
+typed.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/suds/!svn/ver/632/trunk/suds/umx/typed.py
+END
+attrlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/suds/!svn/ver/549/trunk/suds/umx/attrlist.py
+END

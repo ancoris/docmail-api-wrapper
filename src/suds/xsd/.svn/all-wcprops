@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/suds/!svn/ver/699/trunk/suds/xsd
+END
+doctor.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/suds/!svn/ver/699/trunk/suds/xsd/doctor.py
+END
+sxbasic.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/suds/!svn/ver/686/trunk/suds/xsd/sxbasic.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/suds/!svn/ver/428/trunk/suds/xsd/__init__.py
+END
+schema.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/suds/!svn/ver/693/trunk/suds/xsd/schema.py
+END
+sxbuiltin.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/suds/!svn/ver/593/trunk/suds/xsd/sxbuiltin.py
+END
+deplist.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/suds/!svn/ver/494/trunk/suds/xsd/deplist.py
+END
+query.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/suds/!svn/ver/548/trunk/suds/xsd/query.py
+END
+sxbase.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/suds/!svn/ver/686/trunk/suds/xsd/sxbase.py
+END

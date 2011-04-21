@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/suds/!svn/ver/703/trunk/suds/sax
+END
+element.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/suds/!svn/ver/692/trunk/suds/sax/element.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/suds/!svn/ver/636/trunk/suds/sax/parser.py
+END
+date.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/suds/!svn/ver/703/trunk/suds/sax/date.py
+END
+document.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/suds/!svn/ver/692/trunk/suds/sax/document.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/suds/!svn/ver/665/trunk/suds/sax/__init__.py
+END
+attribute.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/suds/!svn/ver/643/trunk/suds/sax/attribute.py
+END
+text.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/suds/!svn/ver/643/trunk/suds/sax/text.py
+END
+enc.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/suds/!svn/ver/523/trunk/suds/sax/enc.py
+END

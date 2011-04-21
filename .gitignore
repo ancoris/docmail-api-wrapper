@@ -1,0 +1,4 @@
+*.pyc
+*.datastore
+*.project
+*.pydevproject
