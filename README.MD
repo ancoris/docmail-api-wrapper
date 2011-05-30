@@ -9,7 +9,19 @@ This library uses SUDS - a lightweight SOAP python client for consuming Web Serv
 
 This library was developed by Appogee in partnership with CFH Docmail, and is licensed under the MIT License
 
-
+Setup
+-----
+There are Live, Test and Beta versions of the API. Each of which will require a different set of credentials: 
+ - Live - links to the live site. This will actually send mail! Use this only in production environments.
+ 		- Create Account = https://www.cfhdocmail.com/live/signup.aspx
+ 		- WSDL = https://www.cfhdocmail.com/LiveAPI2/DMWS.asmx?WSDL
+ - Test - Replica of Live. This does NOT send mail
+ 		- Create Account = https://www.cfhdocmail.com/test/signup.aspx
+ 		- WSDL = https://www.cfhdocmail.com/TestAPI2/DMWS.asmx?WSDL
+ - Beta - Includes new and experimental features. This does NOT send mail
+ 		- Create Account = https://www.cfhdocmail.com/beta/signup.aspx
+ 		- WSDL = https://www.cfhdocmail.com/BetaAPI2/DMWS.asmx?WSDL
+ 		
 Links
 -----
 [http://cfhdocmail.com](http://cfhdocmail.com)
